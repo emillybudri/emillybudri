@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 29.08.2026: FLEXIBILIDADE E ATALHOS. O caminho longo serve para quem chegou agora. Quem usa todo dia precisa de acelerador: atalho de teclado, ação em massa, busca por comando.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 30.08.2026: LEI DE PARKINSON. A tarefa se espalha até preencher o tempo disponível. Prazo declarado e barra de progresso encurtam formulário melhor do que qualquer pedido de pressa.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,24 +45,21 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 29.08.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 30.08.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">FLEXIBILIDADE E ATALHOS</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">LEI DE PARKINSON</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">O caminho longo serve para quem chegou agora.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Quem usa todo dia precisa de acelerador: atalho de</text><text x="40" y="188" font-size="12.5" fill="#4b5563">teclado, ação em massa, busca por comando.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">A tarefa se espalha até preencher o tempo disponível.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Prazo declarado e barra de progresso encurtam formulário</text><text x="40" y="188" font-size="12.5" fill="#4b5563">melhor do que qualquer pedido de pressa.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <rect x="40" y="40" width="150" height="12" rx="6.0" fill="#4b5563" fill-opacity=".3"/><rect x="40" y="62" width="150" height="12" rx="6.0" fill="#4b5563" fill-opacity=".3"/><rect x="40" y="84" width="150" height="12" rx="6.0" fill="#4b5563" fill-opacity=".3"/><rect x="40" y="106" width="150" height="12" rx="6.0" fill="#4b5563" fill-opacity=".3"/>
-  <text x="115" y="140" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">CAMINHO LONGO</text>
-  <path d="M180 34 V128" stroke="#4b5563" stroke-width="1.4" stroke-dasharray="4 5" opacity=".5"/>
-  <rect x="210" y="60" width="52" height="30" rx="8" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="1.6"/>
-  <text x="236" y="80" font-size="11" text-anchor="middle" fill="#7e22ce" font-family="SFMono-Regular, Consolas, monospace">Ctrl</text>
-  <rect x="272" y="60" width="52" height="30" rx="8" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="1.6"/>
-  <text x="298" y="80" font-size="11" text-anchor="middle" fill="#7e22ce" font-family="SFMono-Regular, Consolas, monospace">K</text>
-  <text x="267" y="140" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#7e22ce">ATALHO PARA QUEM JÁ SABE</text>
+  <rect x="40" y="50" width="280" height="14" rx="7.0" fill="#4b5563" fill-opacity=".18"/><rect class="enche" x="40" y="50" width="280" height="14" rx="7.0" fill="#db2777"/>
+  <text x="180" y="82" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#db2777">PRAZO DE DUAS SEMANAS: LEVA DUAS SEMANAS</text>
+  <rect x="40" y="100" width="280" height="14" rx="7.0" fill="#4b5563" fill-opacity=".18"/><rect class="enche" x="40" y="100" width="90" height="14" rx="7.0" fill="#16a34a"/>
+  <text x="180" y="132" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#16a34a">PRAZO DE TRÊS DIAS: LEVA TRÊS DIAS</text>
+  <text x="180" y="158" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">O TRABALHO SE ESPALHA ATÉ PREENCHER O TEMPO DADO</text>
 </g></g>
       </g>
     </g>
