@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 09.09.2026: NAVALHA DE OCCAM. Entre duas soluções que resolvem, fique com a mais simples. Vá tirando elemento até começar a fazer falta: o que sobrou era o necessário.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 10.09.2026: LEI DE FITTS. Quanto maior e mais perto o alvo, mais rápido a mão chega nele. Botão importante não merece ser pequeno nem ficar escondido num canto que ninguém alcança.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,23 +45,27 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 09.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 10.09.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">NAVALHA DE OCCAM</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">LEI DE FITTS</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Entre duas soluções que resolvem, fique com a mais simples.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Vá tirando elemento até começar a fazer falta:</text><text x="40" y="188" font-size="12.5" fill="#4b5563">o que sobrou era o necessário.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Quanto maior e mais perto o alvo, mais rápido a mão chega nele.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Botão importante não merece ser pequeno nem ficar escondido</text><text x="40" y="188" font-size="12.5" fill="#4b5563">num canto que ninguém alcança.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <rect x="98" y="34" width="176" height="14" rx="7" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="1.4"/><rect x="98" y="56" width="176" height="14" rx="7" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="1.4"/><rect x="98" y="78" width="176" height="14" rx="7" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="1.4"/>
-  <rect x="98" y="100" width="176" height="14" rx="7" fill="none" stroke="#4b5563" stroke-width="1.4" stroke-dasharray="4 4" opacity=".6"/><rect x="98" y="122" width="176" height="14" rx="7" fill="none" stroke="#4b5563" stroke-width="1.4" stroke-dasharray="4 4" opacity=".6"/>
-  <g stroke="#db2777" stroke-width="2" stroke-linecap="round" opacity=".8">
-    <path d="M70 100 l16 16 M86 100 l-16 16"/>
-    <path d="M70 122 l16 16 M86 122 l-16 16"/>
+  <g stroke-dasharray="4 5" stroke-width="1.4" fill="none" opacity=".55">
+    <path d="M40 136 L108 76" stroke="#7e22ce"/>
+    <path d="M40 136 L278 58" stroke="#4b5563"/>
   </g>
-  <text x="180" y="158" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">TIRE ATÉ COMEÇAR A FAZER FALTA</text>
+  <circle cx="120" cy="64" r="30" fill="#7e22ce" fill-opacity=".16" stroke="#7e22ce" stroke-width="2"/>
+  <circle class="pulso" cx="120" cy="64" r="30" fill="none" stroke="#7e22ce" stroke-width="2"/>
+  <path d="M111 64 l6 6.5 12 -13" fill="none" stroke="#7e22ce" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="288" cy="54" r="9" fill="#4b5563" fill-opacity=".16" stroke="#4b5563" stroke-width="1.8"/>
+  <g class="seta"><path d="M32 128 l0 22 5.5 -6.5 5.5 12 5 -2.4 -5.5 -12 7.5 0 z" fill="#111827"/></g>
+  <text x="120" y="118" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#7e22ce">PERTO E GRANDE</text>
+  <text x="288" y="80" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">LONGE E PEQUENO</text>
 </g></g>
       </g>
     </g>
