@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 12.09.2026: LEI DA PROXIMIDADE. O que está perto parece do mesmo grupo, mesmo sem título. Antes de desenhar mais uma linha divisória, tente só mexer no espaçamento.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 13.09.2026: AFFORDANCE. A forma de um elemento já anuncia o que dá para fazer com ele. Botão com cara de botão dispensa instrução; texto com cara de texto não recebe clique nenhum.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,26 +45,22 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 12.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 13.09.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">LEI DA PROXIMIDADE</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">AFFORDANCE</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">O que está perto parece do mesmo grupo, mesmo sem título.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Antes de desenhar mais uma linha divisória, tente</text><text x="40" y="188" font-size="12.5" fill="#4b5563">só mexer no espaçamento.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">A forma de um elemento já anuncia o que dá para fazer com ele.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Botão com cara de botão dispensa instrução; texto com cara</text><text x="40" y="188" font-size="12.5" fill="#4b5563">de texto não recebe clique nenhum.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <g fill="#7e22ce">
-    <circle cx="52" cy="56" r="7"/><circle cx="78" cy="56" r="7"/><circle cx="104" cy="56" r="7"/><circle cx="52" cy="82" r="7"/><circle cx="78" cy="82" r="7"/><circle cx="104" cy="82" r="7"/><circle cx="52" cy="108" r="7"/><circle cx="78" cy="108" r="7"/><circle cx="104" cy="108" r="7"/>
-  </g>
-  <circle cx="78" cy="82" r="52" fill="none" stroke="#7e22ce" stroke-width="1.6" stroke-dasharray="5 5" opacity=".6"/>
-  <g fill="#2563eb">
-    <circle cx="246" cy="56" r="7"/><circle cx="272" cy="56" r="7"/><circle cx="298" cy="56" r="7"/><circle cx="246" cy="82" r="7"/><circle cx="272" cy="82" r="7"/><circle cx="298" cy="82" r="7"/><circle cx="246" cy="108" r="7"/><circle cx="272" cy="108" r="7"/><circle cx="298" cy="108" r="7"/>
-  </g>
-  <circle cx="272" cy="82" r="52" fill="none" stroke="#2563eb" stroke-width="1.6" stroke-dasharray="5 5" opacity=".6"/>
-  <text x="180" y="88" font-size="22" font-weight="700" text-anchor="middle" fill="#4b5563" opacity=".45">|</text>
-  <text x="180" y="156" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">DOIS GRUPOS, SEM PRECISAR DE TÍTULO</text>
+  <rect x="34" y="56" width="128" height="36" rx="18" fill="#7e22ce" fill-opacity=".18" stroke="#7e22ce" stroke-width="2"/>
+  <text x="98" y="79" font-size="11" letter-spacing="1.4" text-anchor="middle" fill="#7e22ce">COMPRAR</text>
+  <text x="98" y="122" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#7e22ce">PARECE BOTÃO</text>
+  <text x="262" y="79" font-size="11" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">COMPRAR</text>
+  <text x="262" y="122" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">PARECE TEXTO</text>
+  <text x="180" y="150" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">A FORMA JÁ CONTA O QUE DÁ PARA FAZER</text>
 </g></g>
       </g>
     </g>
