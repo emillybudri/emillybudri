@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 19.09.2026: LEI DE TESLER. Toda complexidade que não dá para eliminar alguém carrega. A escolha é sua: ou o sistema resolve, ou a conta sobra para quem está usando.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 20.09.2026: PROVA SOCIAL. Na dúvida, a gente faz o que os outros fizeram. Nota, número de clientes e avaliação encurtam a decisão mais do que qualquer descrição de produto.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#251749"/><stop offset="55%" stop-color="#150b28"/><stop offset="100%" stop-color="#1e1039"/>
@@ -45,23 +45,21 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#4ade80"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 19.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 20.09.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">LEI DE TESLER</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">PROVA SOCIAL</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">Toda complexidade que não dá para eliminar alguém carrega.</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">A escolha é sua: ou o sistema resolve, ou a conta sobra</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">para quem está usando.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">Na dúvida, a gente faz o que os outros fizeram.</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">Nota, número de clientes e avaliação encurtam a decisão</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">mais do que qualquer descrição de produto.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#8d85ac" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#251749" stroke="#3b2366" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <text x="96" y="32" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">PESSOA</text>
-  <text x="264" y="32" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#c084fc">SISTEMA</text>
-  <path d="M180 42 V142" stroke="#b8b0d6" stroke-width="1.4" stroke-dasharray="4 5" opacity=".55"/>
-  <rect x="52" y="62" width="88" height="26" rx="9" fill="#b8b0d6" fill-opacity=".16" stroke="#b8b0d6" stroke-width="1.5"/><rect x="52" y="96" width="88" height="26" rx="9" fill="#b8b0d6" fill-opacity=".16" stroke="#b8b0d6" stroke-width="1.5"/>
-  <rect x="220" y="52" width="88" height="26" rx="9" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.5"/><rect x="220" y="86" width="88" height="26" rx="9" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.5"/><rect x="220" y="120" width="88" height="26" rx="9" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.5"/>
-  <g class="seta"><path d="M148 100 h22 m-7 -5 l7 5 -7 5" fill="none" stroke="#f472b6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="180" y="162" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">O TRABALHO MUDA DE LADO, NÃO SOME</text>
+  <circle cx="62" cy="62" r="14" fill="#c084fc" fill-opacity="0.5" stroke="#c084fc" stroke-width="1.4"/><circle cx="88" cy="62" r="14" fill="#c084fc" fill-opacity="0.42" stroke="#c084fc" stroke-width="1.4"/><circle cx="114" cy="62" r="14" fill="#c084fc" fill-opacity="0.33999999999999997" stroke="#c084fc" stroke-width="1.4"/><circle cx="140" cy="62" r="14" fill="#c084fc" fill-opacity="0.26" stroke="#c084fc" stroke-width="1.4"/>
+  <text x="196" y="67" font-size="12" fill="#c084fc">+2.480 pessoas</text>
+  <path d="M60 108 l4 8 9 1 -6.5 6 1.5 9 -8 -4.5 -8 4.5 1.5 -9 -6.5 -6 9 -1 z" fill="#c084fc" opacity=".8"/><path d="M82 108 l4 8 9 1 -6.5 6 1.5 9 -8 -4.5 -8 4.5 1.5 -9 -6.5 -6 9 -1 z" fill="#c084fc" opacity=".8"/><path d="M104 108 l4 8 9 1 -6.5 6 1.5 9 -8 -4.5 -8 4.5 1.5 -9 -6.5 -6 9 -1 z" fill="#c084fc" opacity=".8"/><path d="M126 108 l4 8 9 1 -6.5 6 1.5 9 -8 -4.5 -8 4.5 1.5 -9 -6.5 -6 9 -1 z" fill="#c084fc" opacity=".8"/><path d="M148 108 l4 8 9 1 -6.5 6 1.5 9 -8 -4.5 -8 4.5 1.5 -9 -6.5 -6 9 -1 z" fill="#c084fc" opacity=".8"/>
+  <text x="196" y="116" font-size="12" fill="#b8b0d6">4,8 de 5</text>
+  <text x="180" y="158" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">A ESCOLHA DOS OUTROS É ATALHO PARA A NOSSA</text>
 </g></g>
       </g>
     </g>
