@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 23.09.2026: LIMIAR DE DOHERTY. Acima de 0,4 segundo de espera, a atenção começa a vazar. Abaixo disso a pessoa entra em ritmo com a interface e produz mais sem perceber.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 24.09.2026: CARGA COGNITIVA. A cabeça tem banda limitada e ela é gasta com o conteúdo, não com a interface. Cada decisão a mais que a tela pede é menos energia para o que a pessoa veio fazer.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#251749"/><stop offset="55%" stop-color="#150b28"/><stop offset="100%" stop-color="#1e1039"/>
@@ -45,27 +45,21 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#4ade80"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 23.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 24.09.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">LIMIAR DE DOHERTY</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">CARGA COGNITIVA</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">Acima de 0,4 segundo de espera, a atenção começa a vazar.</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">Abaixo disso a pessoa entra em ritmo com a interface e</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">produz mais sem perceber.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">A cabeça tem banda limitada e ela é gasta com o conteúdo,</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">não com a interface. Cada decisão a mais que a tela pede</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">é menos energia para o que a pessoa veio fazer.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#8d85ac" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#251749" stroke="#3b2366" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <rect x="40" y="50" width="252" height="14" rx="7" fill="#b8b0d6" fill-opacity=".18"/>
-  <rect class="enche" x="40" y="50" width="66" height="14" rx="7" fill="#4ade80"/>
-  <circle cx="122" cy="57" r="11" fill="#4ade80" fill-opacity=".18"/>
-  <path d="M116 57 l4.4 4.6 8 -9" fill="none" stroke="#4ade80" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="332" y="61" font-size="10" text-anchor="end" fill="#4ade80">0,3s</text>
-  <rect x="40" y="100" width="252" height="14" rx="7" fill="#b8b0d6" fill-opacity=".18"/>
-  <rect class="enche" x="40" y="100" width="214" height="14" rx="7" fill="#f472b6"/>
-  <circle cx="270" cy="107" r="11" fill="#f472b6" fill-opacity=".18"/>
-  <path d="M265 102 l10 10 M275 102 l-10 10" fill="none" stroke="#f472b6" stroke-width="2.2" stroke-linecap="round"/>
-  <text x="332" y="111" font-size="10" text-anchor="end" fill="#f472b6">2,4s</text>
-  <text x="180" y="150" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">PASSOU DE 0,4s, A ATENÇÃO JÁ FOI EMBORA</text>
+  <rect x="40" y="34" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="49" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="64" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="79" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="94" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="109" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/><rect x="40" y="124" width="120" height="9" rx="4.5" fill="#f472b6" fill-opacity=".5"/>
+  <text x="100" y="154" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#f472b6">TUDO DE UMA VEZ</text>
+  <path d="M180 30 V140" stroke="#b8b0d6" stroke-width="1.4" stroke-dasharray="4 5" opacity=".5"/>
+  <rect x="220" y="52" width="120" height="11" rx="5.5" fill="#c084fc" fill-opacity="1"/><rect x="220" y="76" width="120" height="11" rx="5.5" fill="#c084fc" fill-opacity="1"/><rect x="220" y="100" width="120" height="11" rx="5.5" fill="#c084fc" fill-opacity="1"/>
+  <text x="280" y="154" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#c084fc">SÓ O QUE IMPORTA AGORA</text>
 </g></g>
       </g>
     </g>
