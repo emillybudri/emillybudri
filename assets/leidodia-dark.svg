@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 27.09.2026: LEI DA CONTINUIDADE. Elementos alinhados em uma curva ou reta são lidos como um caminho só. É o que faz uma trilha de passos parecer um processo, e não itens soltos.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 28.09.2026: EFEITO VON RESTORFF. O item diferente do resto é o único que fica na memória. Se tudo está em destaque, nada está. Escolha um botão para gritar e deixe os outros sussurrarem.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#251749"/><stop offset="55%" stop-color="#150b28"/><stop offset="100%" stop-color="#1e1039"/>
@@ -45,20 +45,21 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#4ade80"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 27.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 28.09.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">LEI DA CONTINUIDADE</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">EFEITO VON RESTORFF</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">Elementos alinhados em uma curva ou reta são lidos como</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">um caminho só. É o que faz uma trilha de passos parecer</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">um processo, e não itens soltos.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">O item diferente do resto é o único que fica na memória.</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">Se tudo está em destaque, nada está. Escolha um botão</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">para gritar e deixe os outros sussurrarem.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#8d85ac" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#251749" stroke="#3b2366" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <path class="curva" d="M30 110 C90 110, 110 50, 180 50 C250 50, 270 110, 330 110"
-        fill="none" stroke="#c084fc" stroke-width="2.4" opacity=".35"/>
-  <circle cx="34" cy="110" r="7" fill="#c084fc"/><circle cx="61" cy="91" r="7" fill="#c084fc"/><circle cx="88" cy="75" r="7" fill="#c084fc"/><circle cx="115" cy="63" r="7" fill="#c084fc"/><circle cx="142" cy="55" r="7" fill="#c084fc"/><circle cx="169" cy="51" r="7" fill="#c084fc"/><circle cx="196" cy="51" r="7" fill="#c084fc"/><circle cx="223" cy="55" r="7" fill="#c084fc"/><circle cx="250" cy="63" r="7" fill="#c084fc"/><circle cx="277" cy="75" r="7" fill="#c084fc"/><circle cx="304" cy="91" r="7" fill="#c084fc"/><circle cx="331" cy="110" r="7" fill="#c084fc"/>
-  <text x="180" y="148" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">PONTOS EM LINHA VIRAM UM CAMINHO SÓ</text>
+  <rect x="28" y="38" width="88" height="40" rx="12" fill="#b8b0d6" fill-opacity=".14" stroke="#b8b0d6" stroke-width="1.5" opacity=".7"/><rect x="136" y="38" width="88" height="40" rx="12" fill="#b8b0d6" fill-opacity=".14" stroke="#b8b0d6" stroke-width="1.5" opacity=".7"/><rect x="244" y="38" width="88" height="40" rx="12" fill="#b8b0d6" fill-opacity=".14" stroke="#b8b0d6" stroke-width="1.5" opacity=".7"/><rect x="28" y="94" width="88" height="40" rx="12" fill="#b8b0d6" fill-opacity=".14" stroke="#b8b0d6" stroke-width="1.5" opacity=".7"/><rect x="244" y="94" width="88" height="40" rx="12" fill="#b8b0d6" fill-opacity=".14" stroke="#b8b0d6" stroke-width="1.5" opacity=".7"/>
+  <g class="destaca" style="transform-origin:180px 114px">
+    <rect x="136" y="94" width="88" height="40" rx="12" fill="#f472b6" fill-opacity=".2" stroke="#f472b6" stroke-width="2.4"/>
+  </g>
+  <circle class="pulso" cx="180" cy="114" r="30" fill="none" stroke="#f472b6" stroke-width="1.6"/>
 </g></g>
       </g>
     </g>
