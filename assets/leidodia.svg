@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 30.09.2026: CHUNKING. Quebrar informação em blocos curtos multiplica o quanto a memória segura. Telefone, cartão e CPF existem em pedaços exatamente por isso.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 01.10.2026: CORRESPONDÊNCIA COM O REAL. Fale a língua de quem usa, não a do banco de dados. 'Cartão recusado' resolve; 'ERR_TX_0x2F' só empurra a pessoa para o suporte.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,21 +45,23 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 30.09.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 01.10.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">CHUNKING</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">CORRESPONDÊNCIA COM O REAL</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Quebrar informação em blocos curtos multiplica o quanto</text><text x="40" y="167" font-size="12.5" fill="#4b5563">a memória segura. Telefone, cartão e CPF existem em</text><text x="40" y="188" font-size="12.5" fill="#4b5563">pedaços exatamente por isso.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Fale a língua de quem usa, não a do banco de dados.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">'Cartão recusado' resolve; 'ERR_TX_0x2F' só empurra</text><text x="40" y="188" font-size="12.5" fill="#4b5563">a pessoa para o suporte.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <text x="180" y="52" font-size="20" letter-spacing="3" text-anchor="middle" fill="#4b5563" font-family="SFMono-Regular, Consolas, monospace">11987654321</text>
-  <text x="180" y="74" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">ILEGÍVEL</text>
-  <g class="seta"><path d="M150 96 H210 m-8 -6 l8 6 -8 6" fill="none" stroke="#db2777" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="180" y="132" font-size="20" letter-spacing="3" text-anchor="middle" fill="#7e22ce" font-family="SFMono-Regular, Consolas, monospace">11 98765-4321</text>
-  <text x="180" y="158" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">O MESMO NÚMERO, EM PEDAÇOS QUE A CABEÇA SEGURA</text>
+  <rect x="30" y="44" width="140" height="76" rx="14" fill="#db2777" fill-opacity=".1" stroke="#db2777" stroke-width="1.6"/>
+  <text x="100" y="90" font-size="11" text-anchor="middle" fill="#db2777" font-family="SFMono-Regular, Consolas, monospace">ERR_TX_0x2F</text>
+  <g class="seta"><path d="M182 82 H208 m-8 -6 l8 6 -8 6" fill="none" stroke="#db2777" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect x="220" y="44" width="118" height="76" rx="14" fill="#16a34a" fill-opacity=".1" stroke="#16a34a" stroke-width="1.6"/>
+  <text x="279" y="78" font-size="10" text-anchor="middle" fill="#16a34a">Cartão</text>
+  <text x="279" y="96" font-size="10" text-anchor="middle" fill="#16a34a">recusado</text>
+  <text x="180" y="146" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">FALE A LÍNGUA DE QUEM USA, NÃO A DO BANCO DE DADOS</text>
 </g></g>
       </g>
     </g>
