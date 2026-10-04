@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 03.10.2026: EFEITO DO PADRÃO. A maioria não muda a opção que já vem marcada. Isso dá um poder enorme e uma responsabilidade junto: o padrão precisa ser o que é melhor para quem usa.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 04.10.2026: REGRA DO PICO-FIM. A lembrança de uma experiência não é a média dela. É o momento mais intenso somado ao final. Capriche na confirmação do pedido, e não só no formulário.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,25 +45,28 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 03.10.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 04.10.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">EFEITO DO PADRÃO</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">REGRA DO PICO-FIM</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">A maioria não muda a opção que já vem marcada.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Isso dá um poder enorme e uma responsabilidade junto:</text><text x="40" y="188" font-size="12.5" fill="#4b5563">o padrão precisa ser o que é melhor para quem usa.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">A lembrança de uma experiência não é a média dela.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">É o momento mais intenso somado ao final. Capriche na</text><text x="40" y="188" font-size="12.5" fill="#4b5563">confirmação do pedido, e não só no formulário.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <rect x="40" y="44" width="130" height="76" rx="14" fill="#4b5563" fill-opacity=".08" stroke="#4b5563" stroke-width="1.6"/>
-  <circle cx="66" cy="70" r="9" fill="none" stroke="#4b5563" stroke-width="2"/>
-  <circle cx="66" cy="98" r="9" fill="none" stroke="#4b5563" stroke-width="2"/>
-  <text x="105" y="138" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">NADA MARCADO</text>
-  <rect x="196" y="44" width="130" height="76" rx="14" fill="#7e22ce" fill-opacity=".1" stroke="#7e22ce" stroke-width="1.6"/>
-  <circle cx="222" cy="70" r="9" fill="#7e22ce" fill-opacity=".25" stroke="#7e22ce" stroke-width="2"/>
-  <circle cx="222" cy="70" r="4" fill="#7e22ce"/>
-  <circle cx="222" cy="98" r="9" fill="none" stroke="#7e22ce" stroke-width="2" opacity=".4"/>
-  <text x="261" y="138" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#7e22ce">A MAIORIA FICA NO PADRÃO</text>
+  <path d="M28 130 L332 130" stroke="#4b5563" stroke-width="1.2" opacity=".5"/>
+  <path class="curva" d="M28 112 C70 108, 84 44, 124 42 C164 40, 172 104, 214 108 C252 112, 268 96, 300 62"
+        fill="none" stroke="#7e22ce" stroke-width="2.6" stroke-linecap="round"/>
+  <g stroke-dasharray="4 4" stroke="#db2777" stroke-width="1.4" opacity=".7">
+    <path d="M124 42 V130"/><path d="M300 62 V130"/>
+  </g>
+  <circle cx="124" cy="42" r="6" fill="#db2777"/>
+  <circle class="pulso" cx="124" cy="42" r="6" fill="none" stroke="#db2777" stroke-width="1.8"/>
+  <circle cx="300" cy="62" r="6" fill="#db2777"/>
+  <text x="124" y="30" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#db2777">PICO</text>
+  <text x="300" y="50" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#db2777">FIM</text>
+  <text x="200" y="152" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">O MEIO QUASE NÃO CONTA</text>
 </g></g>
       </g>
     </g>
