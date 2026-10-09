@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 08.10.2026: LEI DE PRÄGNANZ. Diante de uma forma complexa, o olho procura a versão mais simples possível. Formas limpas são entendidas mais rápido e cansam menos.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 09.10.2026: ESCASSEZ. O que parece raro parece valer mais. Estoque baixo e prazo curto funcionam, mas só sobrevivem à segunda visita se forem verdade.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -45,23 +45,20 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 08.10.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 09.10.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">LEI DE PRÄGNANZ</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">ESCASSEZ</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Diante de uma forma complexa, o olho procura a versão</text><text x="40" y="167" font-size="12.5" fill="#4b5563">mais simples possível. Formas limpas são entendidas</text><text x="40" y="188" font-size="12.5" fill="#4b5563">mais rápido e cansam menos.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">O que parece raro parece valer mais.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">Estoque baixo e prazo curto funcionam, mas só sobrevivem</text><text x="40" y="188" font-size="12.5" fill="#4b5563">à segunda visita se forem verdade.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <g fill="none" stroke="#4b5563" stroke-width="1.8" opacity=".75">
-    <circle cx="74" cy="68" r="26"/><circle cx="104" cy="84" r="26"/><circle cx="98" cy="50" r="20"/>
-  </g>
-  <g class="seta"><path d="M164 76 h32 m-10 -7 l10 7 -10 7" fill="none" stroke="#db2777" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <circle cx="272" cy="76" r="34" fill="#7e22ce" fill-opacity=".18" stroke="#7e22ce" stroke-width="2.4"/>
-  <circle class="pulso" cx="272" cy="76" r="34" fill="none" stroke="#7e22ce" stroke-width="2"/>
-  <text x="180" y="150" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">O OLHO PROCURA A FORMA MAIS SIMPLES</text>
+  <rect x="56" y="52" width="34" height="34" rx="8" fill="#4b5563" fill-opacity=".18"/><rect x="102" y="52" width="34" height="34" rx="8" fill="#4b5563" fill-opacity=".18"/><rect x="148" y="52" width="34" height="34" rx="8" fill="#4b5563" fill-opacity=".18"/><rect x="194" y="52" width="34" height="34" rx="8" fill="#4b5563" fill-opacity=".18"/><rect x="240" y="52" width="34" height="34" rx="8" fill="#4b5563" fill-opacity=".18"/>
+  <rect x="56" y="52" width="34" height="34" rx="8" fill="#db2777" fill-opacity=".3" stroke="#db2777" stroke-width="1.8"/>
+  <text x="180" y="118" font-size="11" letter-spacing="1.2" text-anchor="middle" fill="#db2777">RESTA 1 EM ESTOQUE</text>
+  <text x="180" y="158" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#4b5563">O QUE É RARO PARECE VALER MAIS - SE FOR VERDADE</text>
 </g></g>
       </g>
     </g>
