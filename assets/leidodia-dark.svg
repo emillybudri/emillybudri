@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 16.10.2026: CONSISTÊNCIA E PADRÕES. A mesma coisa deve se parecer e se comportar igual em todo lugar do produto. Cada exceção obriga a pessoa a reaprender o que já sabia.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 17.10.2026: MODELO MENTAL. Cada pessoa chega com uma ideia pronta de como aquilo funciona. Quando o produto contraria essa ideia, a culpa do estranhamento é do produto, nunca dela.">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#251749"/><stop offset="55%" stop-color="#150b28"/><stop offset="100%" stop-color="#1e1039"/>
@@ -45,20 +45,35 @@
     <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
       <g class="sobe">
         <circle class="vivo" cx="45" cy="44" r="4.5" fill="#4ade80"/>
-        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 16.10.2026</text>
+        <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#c084fc">LEI DE UX DO DIA &#183; 17.10.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">CONSISTÊNCIA E PADRÕES</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#f7f5ff">MODELO MENTAL</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">A mesma coisa deve se parecer e se comportar igual</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">em todo lugar do produto. Cada exceção obriga a pessoa</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">a reaprender o que já sabia.</text></g>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#b8b0d6">Cada pessoa chega com uma ideia pronta de como aquilo</text><text x="40" y="167" font-size="12.5" fill="#b8b0d6">funciona. Quando o produto contraria essa ideia, a culpa</text><text x="40" y="188" font-size="12.5" fill="#b8b0d6">do estranhamento é do produto, nunca dela.</text></g>
       <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#8d85ac" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#251749" stroke="#3b2366" stroke-width="1.6"/>
         <g clip-path="url(#lQuadro)"><g transform="translate(600,32)">
-  <rect x="34" y="52" width="62" height="30" rx="15" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.6"/><rect x="112" y="52" width="62" height="30" rx="15" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.6"/><rect x="190" y="52" width="62" height="30" rx="15" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-width="1.6"/>
-  <rect x="268" y="52" width="62" height="30" rx="4" fill="#f472b6" fill-opacity=".16" stroke="#f472b6" stroke-width="1.6" stroke-dasharray="4 4"/>
-  <circle cx="299" cy="100" r="11" fill="#f472b6" fill-opacity=".18"/><path d="M294 95 l10 10 M304 95 l-10 10" fill="none" stroke="#f472b6" stroke-width="2.2" stroke-linecap="round"/>
-  <text x="180" y="138" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">O MESMO BOTÃO NÃO PODE MUDAR DE CARA A CADA TELA</text>
+  
+  <g opacity=".45">
+    <rect x="28" y="36" width="132" height="96" rx="14" fill="none" stroke="#b8b0d6" stroke-width="1.8"/>
+    <rect x="42" y="52" width="72" height="10" rx="5" fill="#b8b0d6"/>
+    <rect x="42" y="70" width="102" height="7" rx="3.5" fill="#b8b0d6" opacity=".45"/>
+    <rect x="42" y="84" width="86" height="7" rx="3.5" fill="#b8b0d6" opacity=".45"/>
+    <rect x="42" y="102" width="64" height="16" rx="8" fill="#b8b0d6" opacity=".75"/>
+  </g>
+  <g class="seta"><path d="M174 84 H200 m-8 -6 l8 6 -8 6" fill="none" stroke="#f472b6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  
+  <g opacity="1">
+    <rect x="212" y="36" width="132" height="96" rx="14" fill="none" stroke="#c084fc" stroke-width="1.8"/>
+    <rect x="226" y="52" width="72" height="10" rx="5" fill="#c084fc"/>
+    <rect x="226" y="70" width="102" height="7" rx="3.5" fill="#c084fc" opacity=".45"/>
+    <rect x="226" y="84" width="86" height="7" rx="3.5" fill="#c084fc" opacity=".45"/>
+    <rect x="226" y="102" width="64" height="16" rx="8" fill="#c084fc" opacity=".75"/>
+  </g>
+  <text x="94" y="150" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#b8b0d6">O QUE A PESSOA ESPERA</text>
+  <text x="278" y="150" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#c084fc">O QUE VOCÊ ENTREGA</text>
 </g></g>
       </g>
     </g>
