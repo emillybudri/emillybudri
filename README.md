@@ -8,13 +8,6 @@
 
 <br/>
 
-<p><strong>UX Designer · Front-End Developer · Shopify Developer</strong><br/>
-Interfaces com propósito. Experiências que conectam.</p>
-
-[![Site](https://img.shields.io/badge/budri.com.br-9333EA?style=for-the-badge)](https://budri.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-171020?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillybudri/)
-[![Email](https://img.shields.io/badge/Vamos_conversar-6B21A8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emillybudribognar@gmail.com)
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture>
 
 </div>
@@ -24,13 +17,6 @@ Interfaces com propósito. Experiências que conectam.</p>
   <img src="./assets/manifesto.svg" alt="Na Budri não criamos apenas design, criamos experiências. O mesmo arquivo vira wireframe e vira código" width="100%" />
 </picture>
 
-Eu desenho a interface e escrevo o código que a sustenta. É esse o meu trabalho.
-
-Atuo exatamente onde o **UX design** encontra o **desenvolvimento front-end**: a pesquisa vira fluxo, o fluxo vira componente e o componente vira uma interface que a pessoa usa sem esforço. Trabalho com e-commerces que precisam converter, produtos que precisam escalar e marcas que precisam ser lembradas.
-
-> Design não é apenas sobre como as coisas parecem.<br/>
-> É sobre **como a pessoa se sente** usando o que construímos. 💜
-
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
 ## Design & desenvolvimento
@@ -39,8 +25,6 @@ Atuo exatamente onde o **UX design** encontra o **desenvolvimento front-end**: a
   <source media="(prefers-color-scheme: dark)" srcset="./assets/servicos-dark.svg" />
   <img src="./assets/servicos.svg" alt="Serviços: 01 UX/UI Design, 02 Front-End, 03 Email Marketing, 04 Design Gráfico" width="100%" />
 </picture>
-
-Do briefing ao deploy, o projeto passa por uma pessoa só. Levanto os requisitos, arquiteto os fluxos, desenho a interface com todos os estados previstos (vazio, carregando, erro e sucesso) e escrevo o código que sustenta a entrega.
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
