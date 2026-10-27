@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Stack: Figma, Design Systems, Prototipagem, Acessibilidade, Design Gráfico, HTML5, CSS3, SCSS, JavaScript, TypeScript, Liquid, GraphQL, React, Next.js, Remix, React Native, Tailwind, NativeWind, Bootstrap, Shopify, Hydrogen, Weaverse, Headless, Metafields, GSAP, Three.js, n8n, IA, Git e Vercel">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Stack: Figma, Design Systems, Prototipagem, Acessibilidade, Design Gráfico, HTML5, CSS3, SCSS, JavaScript, TypeScript, Liquid, GraphQL, React, Next.js, Remix, React Native, Tailwind, NativeWind, Bootstrap, Angular, Shopify, Hydrogen, Weaverse, Headless, Metafields, GSAP, Three.js, n8n, IA, Git e Vercel">
   <defs>
     <linearGradient id="kFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
@@ -62,6 +62,7 @@
           <g><rect x="531" y="158" width="78"  height="30" rx="15" fill="#db2777" fill-opacity=".1" stroke="#db2777" stroke-opacity=".35"/><text x="570" y="178">Tailwind</text></g>
           <g><rect x="619" y="158" width="92"  height="30" rx="15" fill="#db2777" fill-opacity=".1" stroke="#db2777" stroke-opacity=".35"/><text x="665" y="178">NativeWind</text></g>
           <g><rect x="721" y="158" width="85"  height="30" rx="15" fill="#db2777" fill-opacity=".1" stroke="#db2777" stroke-opacity=".35"/><text x="763.5" y="178">Bootstrap</text></g>
+          <g><rect x="816" y="158" width="76" height="30" rx="15" fill="#db2777" fill-opacity=".1" stroke="#db2777" stroke-opacity=".35"/><text x="854" y="178">Angular</text></g>
         </g>
       </g>
 

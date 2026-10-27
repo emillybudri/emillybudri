@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 292" width="1000" height="292" role="img" aria-label="Serviços: 01 UX e UI Design, 02 Desenvolvimento Front-End, 03 Email Marketing, 04 Design Gráfico">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 292" width="1000" height="292" role="img" aria-label="Serviços: 01 UX e UI Design, 02 Desenvolvimento Front-End, 03 Email Marketing, 04 Design Gráfico"><defs><clipPath id="budri-componente"><rect width="1000" height="292"/></clipPath><style>
+      .marca-move{animation:marca-move 15s ease-in-out infinite}
+      .marca-pulse{animation:marca-pulse 4s ease-in-out infinite}
+      @keyframes marca-move{0%,100%{transform:translate(0,0)}50%{transform:translate(9px,-8px)}}
+      @keyframes marca-pulse{0%,100%{opacity:.4}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style></defs><g clip-path="url(#budri-componente)"><g transform="translate(0 0)">
   <defs>
     <linearGradient id="sBrilho" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
@@ -8,10 +14,10 @@
     <filter id="sSombra" x="-25%" y="-20%" width="150%" height="150%">
       <feDropShadow dx="0" dy="8" stdDeviation="11" flood-color="#c084fc" flood-opacity="0.14"/>
     </filter>
-    <clipPath id="sc1"><rect x="21"  y="12" width="226" height="264" rx="28"/></clipPath>
-    <clipPath id="sc2"><rect x="265" y="12" width="226" height="264" rx="28"/></clipPath>
-    <clipPath id="sc3"><rect x="509" y="12" width="226" height="264" rx="28"/></clipPath>
-    <clipPath id="sc4"><rect x="753" y="12" width="226" height="264" rx="28"/></clipPath>
+    <clipPath id="sc1"><rect x="21"  y="12" width="226" height="264" rx="12"/></clipPath>
+    <clipPath id="sc2"><rect x="265" y="12" width="226" height="264" rx="12"/></clipPath>
+    <clipPath id="sc3"><rect x="509" y="12" width="226" height="264" rx="12"/></clipPath>
+    <clipPath id="sc4"><rect x="753" y="12" width="226" height="264" rx="12"/></clipPath>
     <style>
       .card{animation:sobe 1s cubic-bezier(.2,.7,.3,1) both}
       .c2{animation-delay:.1s}.c3{animation-delay:.2s}.c4{animation-delay:.3s}
@@ -28,21 +34,21 @@
     </style>
   </defs>
 
-  <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
+  <g font-family="Segoe UI, Arial, sans-serif">
 
     <!-- 01 -->
     <g class="card">
-      <g filter="url(#sSombra)"><rect x="21" y="12" width="226" height="264" rx="28" fill="#251749" stroke="#c084fc" stroke-opacity=".26" stroke-width="1.5"/></g>
-      <g clip-path="url(#sc1)"><rect class="luz" x="21" y="12" width="130" height="264" fill="url(#sBrilho)" opacity=".5"/></g>
+      <g><rect x="21" y="12" width="226" height="264" rx="12" fill="#131017" stroke="#c084fc" stroke-opacity=".26" stroke-width="1.5"/></g>
+      <g clip-path="url(#sc1)"></g>
       <text class="num" x="222" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#c084fc">01</text>
       <g class="ico">
         <rect x="45" y="36" width="48" height="48" rx="16" fill="#c084fc" fill-opacity=".12"/>
         <rect x="58" y="49" width="22" height="18" rx="4" fill="none" stroke="#c084fc" stroke-width="1.8"/>
         <path d="M71 62 l0 13 3.2 -4.4 3.2 6.4 3.2 -1.5 -3.2 -6.4 4.8 0 z" fill="#c084fc"/>
       </g>
-      <text x="45" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#f7f5ff">UX/UI DESIGN</text>
+      <text x="45" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#faf8ff">UX/UI DESIGN</text>
       <rect x="45" y="134" width="40" height="3.5" rx="1.75" fill="#c084fc"/>
-      <g font-size="11.5" fill="#b8b0d6">
+      <g font-size="11.5" fill="#c4bdcf">
         <text x="45" y="164">Interfaces claras, nascidas</text>
         <text x="45" y="182">de pesquisa e validadas em</text>
         <text x="45" y="200">protótipo antes do código.</text>
@@ -55,21 +61,21 @@
 
     <!-- 02 -->
     <g class="card c2">
-      <g filter="url(#sSombra)"><rect x="265" y="12" width="226" height="264" rx="28" fill="#251749" stroke="#60a5fa" stroke-opacity=".26" stroke-width="1.5"/></g>
-      <g clip-path="url(#sc2)"><rect class="luz z2" x="265" y="12" width="130" height="264" fill="url(#sBrilho)" opacity=".5"/></g>
-      <text class="num" x="466" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#60a5fa">02</text>
+      <g><rect x="265" y="12" width="226" height="264" rx="12" fill="#171020" stroke="#c084fc" stroke-opacity=".26" stroke-width="1.5"/></g>
+      <g clip-path="url(#sc2)"></g>
+      <text class="num" x="466" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#c084fc">02</text>
       <g class="ico i2">
-        <rect x="289" y="36" width="48" height="48" rx="16" fill="#60a5fa" fill-opacity=".12"/>
-        <path d="M306 52 l-7 8 7 8 M320 52 l7 8 -7 8 M316 49 l-6 22" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="289" y="36" width="48" height="48" rx="16" fill="#8aafe0" fill-opacity=".12"/>
+        <path d="M306 52 l-7 8 7 8 M320 52 l7 8 -7 8 M316 49 l-6 22" fill="none" stroke="#8aafe0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
       </g>
-      <text x="289" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#f7f5ff">FRONT-END</text>
-      <rect x="289" y="134" width="40" height="3.5" rx="1.75" fill="#60a5fa"/>
-      <g font-size="11.5" fill="#b8b0d6">
+      <text x="289" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#faf8ff">FRONT-END</text>
+      <rect x="289" y="134" width="40" height="3.5" rx="1.75" fill="#c084fc"/>
+      <g font-size="11.5" fill="#c4bdcf">
         <text x="289" y="164">Web e mobile com foco em</text>
         <text x="289" y="182">performance, acessibilidade</text>
         <text x="289" y="200">e integração com APIs.</text>
       </g>
-      <g font-size="8.8" letter-spacing="1.5" fill="#60a5fa">
+      <g font-size="8.8" letter-spacing="1.5" fill="#c084fc">
         <text x="289" y="230">WEB &#183; MOBILE</text>
         <text x="289" y="246">PERFORMANCE</text>
       </g>
@@ -77,22 +83,22 @@
 
     <!-- 03 -->
     <g class="card c3">
-      <g filter="url(#sSombra)"><rect x="509" y="12" width="226" height="264" rx="28" fill="#251749" stroke="#f472b6" stroke-opacity=".26" stroke-width="1.5"/></g>
-      <g clip-path="url(#sc3)"><rect class="luz z3" x="509" y="12" width="130" height="264" fill="url(#sBrilho)" opacity=".5"/></g>
-      <text class="num" x="710" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#f472b6">03</text>
+      <g><rect x="509" y="12" width="226" height="264" rx="12" fill="#131017" stroke="#a855f7" stroke-opacity=".26" stroke-width="1.5"/></g>
+      <g clip-path="url(#sc3)"></g>
+      <text class="num" x="710" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#a855f7">03</text>
       <g class="ico i3">
-        <rect x="533" y="36" width="48" height="48" rx="16" fill="#f472b6" fill-opacity=".12"/>
-        <rect x="546" y="50" width="22" height="16" rx="3.5" fill="none" stroke="#f472b6" stroke-width="1.8"/>
-        <path d="M546.5 52 l10.5 8 10.5 -8" fill="none" stroke="#f472b6" stroke-width="1.8" stroke-linejoin="round"/>
+        <rect x="533" y="36" width="48" height="48" rx="16" fill="#df95bb" fill-opacity=".12"/>
+        <rect x="546" y="50" width="22" height="16" rx="3.5" fill="none" stroke="#df95bb" stroke-width="1.8"/>
+        <path d="M546.5 52 l10.5 8 10.5 -8" fill="none" stroke="#df95bb" stroke-width="1.8" stroke-linejoin="round"/>
       </g>
-      <text x="533" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#f7f5ff">EMAIL MARKETING</text>
-      <rect x="533" y="134" width="40" height="3.5" rx="1.75" fill="#f472b6"/>
-      <g font-size="11.5" fill="#b8b0d6">
+      <text x="533" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#faf8ff">EMAIL MARKETING</text>
+      <rect x="533" y="134" width="40" height="3.5" rx="1.75" fill="#a855f7"/>
+      <g font-size="11.5" fill="#c4bdcf">
         <text x="533" y="164">E-mails responsivos, fiéis</text>
         <text x="533" y="182">à identidade da marca e</text>
         <text x="533" y="200">desenhados para converter.</text>
       </g>
-      <g font-size="8.8" letter-spacing="1.5" fill="#f472b6">
+      <g font-size="8.8" letter-spacing="1.5" fill="#a855f7">
         <text x="533" y="230">TEMPLATES &#183; RESPONSIVO</text>
         <text x="533" y="246">CONVERSÃO</text>
       </g>
@@ -100,26 +106,26 @@
 
     <!-- 04 -->
     <g class="card c4">
-      <g filter="url(#sSombra)"><rect x="753" y="12" width="226" height="264" rx="28" fill="#251749" stroke="#fb923c" stroke-opacity=".26" stroke-width="1.5"/></g>
-      <g clip-path="url(#sc4)"><rect class="luz z4" x="753" y="12" width="130" height="264" fill="url(#sBrilho)" opacity=".5"/></g>
-      <text class="num" x="954" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#fb923c">04</text>
+      <g><rect x="753" y="12" width="226" height="264" rx="12" fill="#171020" stroke="#e9d5ff" stroke-opacity=".26" stroke-width="1.5"/></g>
+      <g clip-path="url(#sc4)"></g>
+      <text class="num" x="954" y="72" font-size="48" font-weight="700" text-anchor="end" fill="#e9d5ff">04</text>
       <g class="ico i4">
-        <rect x="777" y="36" width="48" height="48" rx="16" fill="#fb923c" fill-opacity=".12"/>
-        <circle cx="795" cy="55" r="8" fill="#fb923c" fill-opacity=".55"/>
-        <circle cx="806" cy="63" r="8" fill="#f472b6" fill-opacity=".5"/>
-        <circle cx="800.5" cy="66" r="3.6" fill="#251749"/>
+        <rect x="777" y="36" width="48" height="48" rx="16" fill="#e9d5ff" fill-opacity=".12"/>
+        <circle cx="795" cy="55" r="8" fill="#e9d5ff" fill-opacity=".55"/>
+        <circle cx="806" cy="63" r="8" fill="#a855f7" fill-opacity=".5"/>
+        <circle cx="800.5" cy="66" r="3.6" fill="#131017"/>
       </g>
-      <text x="777" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#f7f5ff">DESIGN GRÁFICO</text>
-      <rect x="777" y="134" width="40" height="3.5" rx="1.75" fill="#fb923c"/>
-      <g font-size="11.5" fill="#b8b0d6">
+      <text x="777" y="124" font-size="15.5" font-weight="700" letter-spacing="1.5" fill="#faf8ff">DESIGN GRÁFICO</text>
+      <rect x="777" y="134" width="40" height="3.5" rx="1.75" fill="#e9d5ff"/>
+      <g font-size="11.5" fill="#c4bdcf">
         <text x="777" y="164">Identidade visual coerente,</text>
         <text x="777" y="182">do logotipo às aplicações,</text>
         <text x="777" y="200">pensada para durar.</text>
       </g>
-      <g font-size="8.8" letter-spacing="1.5" fill="#fb923c">
+      <g font-size="8.8" letter-spacing="1.5" fill="#e9d5ff">
         <text x="777" y="230">BRANDING &#183; LOGOTIPOS</text>
         <text x="777" y="246">IDENTIDADE VISUAL</text>
       </g>
     </g>
   </g>
-</svg>
+<path d="M45 276h178 M289 276h178 M533 276h178 M777 276h178" stroke="#a855f7" stroke-width="3"/></g></g></svg>

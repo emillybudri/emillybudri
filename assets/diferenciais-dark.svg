@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 292" width="1000" height="292" role="img" aria-label="Por que trabalhar comigo: UX humanizado, performance que vende e arquitetura que escala">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 292" width="1000" height="292" role="img" aria-label="Por que trabalhar comigo: UX humanizado, performance que vende e arquitetura que escala"><defs><clipPath id="budri-componente"><rect width="1000" height="292"/></clipPath><style>
+      .marca-move{animation:marca-move 15s ease-in-out infinite}
+      .marca-pulse{animation:marca-pulse 4s ease-in-out infinite}
+      @keyframes marca-move{0%,100%{transform:translate(0,0)}50%{transform:translate(9px,-8px)}}
+      @keyframes marca-pulse{0%,100%{opacity:.4}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style></defs><g clip-path="url(#budri-componente)"><path d="M340 38V222 M660 38V222" stroke="#a677e9" stroke-opacity=".3"/><path d="M56 18h42 M376 18h42 M696 18h42" stroke="#a855f7" stroke-width="3"/><g transform="translate(0 0)">
   <defs>
     <filter id="pSombra" x="-25%" y="-25%" width="150%" height="160%">
       <feDropShadow dx="0" dy="8" stdDeviation="11" flood-color="#c084fc" flood-opacity="0.13"/>
@@ -7,7 +13,7 @@
       <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/><stop offset="100%" stop-color="#a855f7" stop-opacity=".45"/>
     </linearGradient>
     <linearGradient id="pRegua2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity=".45"/><stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#c084fc" stop-opacity=".45"/><stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
     </linearGradient>
     <style>
       .card{animation:sobe 1s cubic-bezier(.2,.7,.3,1) both}
@@ -27,17 +33,17 @@
     </style>
   </defs>
 
-  <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
+  <g font-family="Segoe UI, Arial, sans-serif">
 
     <g class="card">
-      <g filter="url(#pSombra)"><rect x="30" y="16" width="300" height="216" rx="28" fill="#251749" stroke="#c084fc" stroke-opacity=".24" stroke-width="1.5"/></g>
+      <g></g>
       <rect x="56" y="42" width="42" height="42" rx="14" fill="#c084fc" fill-opacity=".12"/>
       <g class="bate" style="transform-origin:77px 64px">
-        <path d="M77 73 c-8.4 -5.6 -12.2 -10.2 -12.2 -14.9 a6 6 0 0 1 12.2 -2.9 a6 6 0 0 1 12.2 2.9 c0 4.7 -3.8 9.3 -12.2 14.9 z" fill="#c084fc"/>
+        <path d="M77 73 c-8.4 -5.6 -12.2 -10.2 -12.2 -14.9 a6 6 0 0 1 12.2 -2.9 a6 6 0 0 1 12.2 2.9 c0 4.7 -3.8 9.3 -12.2 14.9 z" fill="#df95bb"/>
       </g>
-      <text x="56" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#f7f5ff">UX HUMANIZADO</text>
+      <text x="56" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#faf8ff">UX HUMANIZADO</text>
       <rect x="56" y="134" width="36" height="3.5" rx="1.75" fill="#c084fc"/>
-      <g font-size="12" fill="#b8b0d6">
+      <g font-size="12" fill="#c4bdcf">
         <text x="56" y="164">Pesquisa e empatia antes do primeiro</text>
         <text x="56" y="182">pixel. Cada elemento na tela tem</text>
         <text x="56" y="200">uma justificativa por trás.</text>
@@ -45,17 +51,17 @@
     </g>
 
     <g class="card k2">
-      <g filter="url(#pSombra)"><rect x="350" y="16" width="300" height="216" rx="28" fill="#251749" stroke="#60a5fa" stroke-opacity=".24" stroke-width="1.5"/></g>
-      <rect x="376" y="42" width="42" height="42" rx="14" fill="#60a5fa" fill-opacity=".12"/>
-      <g fill="#60a5fa">
-        <rect class="sobebar" x="387" y="62" width="6" height="12" rx="2"/>
-        <rect class="sobebar v2" x="396" y="56" width="6" height="18" rx="2"/>
-        <rect class="sobebar v3" x="405" y="50" width="6" height="24" rx="2"/>
+      <g></g>
+      <rect x="376" y="42" width="42" height="42" rx="14" fill="#c084fc" fill-opacity=".12"/>
+      <g fill="#c084fc">
+        <rect class="sobebar" x="387" y="62" width="6" height="12" rx="2" fill="#8aafe0"/>
+        <rect class="sobebar v2" x="396" y="56" width="6" height="18" rx="2" fill="#8aafe0"/>
+        <rect class="sobebar v3" x="405" y="50" width="6" height="24" rx="2" fill="#8aafe0"/>
       </g>
-      <path class="risca" d="M386 68 l9 -6 9 -7 8 -8" fill="none" stroke="#60a5fa" stroke-opacity=".45" stroke-width="1.6" stroke-linecap="round"/>
-      <text x="376" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#f7f5ff">PERFORMANCE QUE VENDE</text>
-      <rect x="376" y="134" width="36" height="3.5" rx="1.75" fill="#60a5fa"/>
-      <g font-size="12" fill="#b8b0d6">
+      <path class="risca" d="M386 68 l9 -6 9 -7 8 -8" fill="none" stroke="#c084fc" stroke-opacity=".45" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="376" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#faf8ff">PERFORMANCE QUE VENDE</text>
+      <rect x="376" y="134" width="36" height="3.5" rx="1.75" fill="#c084fc"/>
+      <g font-size="12" fill="#c4bdcf">
         <text x="376" y="164">Velocidade não é detalhe técnico:</text>
         <text x="376" y="182">é o que separa uma visita de</text>
         <text x="376" y="200">uma compra concluída.</text>
@@ -63,16 +69,16 @@
     </g>
 
     <g class="card k3">
-      <g filter="url(#pSombra)"><rect x="670" y="16" width="300" height="216" rx="28" fill="#251749" stroke="#f472b6" stroke-opacity=".24" stroke-width="1.5"/></g>
-      <rect x="696" y="42" width="42" height="42" rx="14" fill="#f472b6" fill-opacity=".12"/>
-      <g fill="none" stroke="#f472b6" stroke-width="1.9" stroke-linejoin="round">
+      <g></g>
+      <rect x="696" y="42" width="42" height="42" rx="14" fill="#a855f7" fill-opacity=".12"/>
+      <g fill="none" stroke="#a855f7" stroke-width="1.9" stroke-linejoin="round">
         <path class="empilha" d="M717 50 l11 6 -11 6 -11 -6 z"/>
         <path class="empilha e2" d="M706 62 l11 6 11 -6" stroke-opacity=".7"/>
         <path class="empilha e3" d="M706 70 l11 6 11 -6" stroke-opacity=".45"/>
       </g>
-      <text x="696" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#f7f5ff">ARQUITETURA QUE ESCALA</text>
-      <rect x="696" y="134" width="36" height="3.5" rx="1.75" fill="#f472b6"/>
-      <g font-size="12" fill="#b8b0d6">
+      <text x="696" y="124" font-size="14.5" font-weight="700" letter-spacing="1.4" fill="#faf8ff">ARQUITETURA QUE ESCALA</text>
+      <rect x="696" y="134" width="36" height="3.5" rx="1.75" fill="#a855f7"/>
+      <g font-size="12" fill="#c4bdcf">
         <text x="696" y="164">Componentes modulares e bem</text>
         <text x="696" y="182">documentados, para que a próxima</text>
         <text x="696" y="200">funcionalidade entre sem atrito.</text>
@@ -82,7 +88,7 @@
     <g class="card k4">
       <rect x="60" y="266" width="210" height="1.5" fill="url(#pRegua)"/>
       <rect x="730" y="266" width="210" height="1.5" fill="url(#pRegua2)"/>
-      <text x="500" y="271" font-size="10.5" letter-spacing="2.4" text-anchor="middle" fill="#8d85ac">DO BRIEFING AO DEPLOY, SEMPRE COM A MESMA PESSOA</text>
+      <text x="500" y="271" font-size="10.5" letter-spacing="2.4" text-anchor="middle" fill="#aaa0b7">DO BRIEFING AO DEPLOY, SEMPRE COM A MESMA PESSOA</text>
     </g>
   </g>
-</svg>
+</g></g></svg>

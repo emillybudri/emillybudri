@@ -1,20 +1,19 @@
 <div align="center">
 
-<!-- Cada peça tem dois temas: o claro (o padrão da marca) e o escuro.
-     O <picture> troca junto com o tema do seu GitHub. -->
+<!-- Identidade Budri: roxo, preto e branco. As peças abaixo acompanham o tema do GitHub. -->
 
 <a href="https://budri.com.br" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero.svg" alt="Emilly Budri - UX Designer, Front-End Developer e Shopify Developer" width="100%" />
-  </picture>
+  <img src="./assets/hero.svg" alt="Emilly Budri — Front-end · Mobile · UI/UX — capa com blobs roxos animados" width="100%" />
 </a>
 
 <br/>
 
+<p><strong>UX Designer · Front-End Developer · Shopify Developer</strong><br/>
+Interfaces com propósito. Experiências que conectam.</p>
+
 [![Site](https://img.shields.io/badge/budri.com.br-9333EA?style=for-the-badge)](https://budri.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillybudri/)
-[![Email](https://img.shields.io/badge/Vamos_conversar-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emillybudribognar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171020?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillybudri/)
+[![Email](https://img.shields.io/badge/Vamos_conversar-6B21A8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emillybudribognar@gmail.com)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture>
 
@@ -34,7 +33,7 @@ Atuo exatamente onde o **UX design** encontra o **desenvolvimento front-end**: a
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
-## O que eu faço?
+## Design & desenvolvimento
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/servicos-dark.svg" />
@@ -45,17 +44,17 @@ Do briefing ao deploy, o projeto passa por uma pessoa só. Levanto os requisitos
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
-## Ferramentas
+## Minha stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
-  <img src="./assets/stack.svg" alt="Ferramentas: Figma, Design Systems, HTML5, CSS3, SCSS, JavaScript, TypeScript, Liquid, GraphQL, React, Next.js, Remix, React Native, Tailwind, NativeWind, Bootstrap, Shopify, Hydrogen, Weaverse, GSAP, Three.js, n8n, IA, Git e Vercel" width="100%" />
+  <img src="./assets/stack.svg" alt="Ferramentas: Figma, Design Systems, HTML5, CSS3, SCSS, JavaScript, TypeScript, Liquid, GraphQL, React, Next.js, Remix, React Native, Tailwind, NativeWind, Bootstrap, Angular, Shopify, Hydrogen, Weaverse, GSAP, Three.js, n8n, IA, Git e Vercel" width="100%" />
 </picture>
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
 
-## Por que trabalhar comigo?
+## O que guia meu trabalho
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/diferenciais-dark.svg" />
@@ -86,7 +85,7 @@ Do briefing ao deploy, o projeto passa por uma pessoa só. Levanto os requisitos
 <a href="https://budri.com.br" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-    <img src="./assets/footer.svg" alt="Vamos criar algo inesquecível? budri.com.br · LinkedIn · emillybudribognar@gmail.com" width="100%" />
+    <img src="./assets/footer.svg" alt="Vamos criar algo inesquecível juntos? budri.com.br · LinkedIn · emillybudribognar@gmail.com" width="100%" />
   </picture>
 </a>
 

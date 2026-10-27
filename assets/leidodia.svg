@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 13.08.2026: DIVULGAÇÃO PROGRESSIVA. Mostre o essencial e guarde o avançado a um clique. A tela fica simples para quem está começando sem tirar poder de quem já sabe o que quer.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Lei de UX do dia 13.08.2026: DIVULGAÇÃO PROGRESSIVA. Mostre o essencial e guarde o avançado a um clique. A tela fica simples para quem está começando sem tirar poder de quem já sabe o que quer."><defs><clipPath id="budri-componente"><rect width="1000" height="248"/></clipPath><style>
+      .marca-move{animation:marca-move 15s ease-in-out infinite}
+      .marca-pulse{animation:marca-pulse 4s ease-in-out infinite}
+      @keyframes marca-move{0%,100%{transform:translate(0,0)}50%{transform:translate(9px,-8px)}}
+      @keyframes marca-pulse{0%,100%{opacity:.4}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style></defs><g clip-path="url(#budri-componente)"><path d="M16 1H960L999 40V247H16Q1 247 1 232V16Q1 1 16 1Z" fill="#faf5ff" stroke="#e9d5ff"/><path d="M960 1V40H999" fill="#e9d5ff"/><path d="M18 20V228" stroke="#9333ea" stroke-width="4"/><g transform="translate(0 0)">
   <defs>
     <linearGradient id="lFundo" x1="0" y1="0" x2="0.8" y2="1">
       <stop offset="0%" stop-color="#fffdff"/><stop offset="55%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#f3e8ff"/>
     </linearGradient>
     <radialGradient id="lB1" cx="50%" cy="50%"><stop offset="0%" stop-color="#b06cf0" stop-opacity=".16"/><stop offset="100%" stop-color="#b06cf0" stop-opacity="0"/></radialGradient>
     <linearGradient id="lRegua" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#9333ea"/><stop offset="100%" stop-color="#2563eb"/>
+      <stop offset="0%" stop-color="#9333ea"/><stop offset="100%" stop-color="#7e22ce"/>
     </linearGradient>
-    <clipPath id="lCard"><rect width="1000" height="248" rx="28"/></clipPath>
+    <clipPath id="lCard"><rect width="1000" height="248" rx="18"/></clipPath>
     <clipPath id="lQuadro"><rect x="600" y="32" width="360" height="166" rx="20"/></clipPath>
     <style>
       .sobe{animation:sobe .9s cubic-bezier(.2,.7,.3,1) both}
@@ -39,18 +45,18 @@
   </defs>
 
   <g clip-path="url(#lCard)">
-    <rect width="1000" height="248" fill="url(#lFundo)"/>
-    <ellipse cx="60" cy="230" rx="300" ry="160" fill="url(#lB1)"/>
 
-    <g font-family="Jost, Century Gothic, Futura, Segoe UI, Arial, sans-serif">
+
+
+    <g font-family="Segoe UI, Arial, sans-serif">
       <g class="sobe">
-        <circle class="vivo" cx="45" cy="44" r="4.5" fill="#16a34a"/>
+        <circle class="vivo" cx="45" cy="44" r="4.5" fill="#7e22ce"/>
         <text x="59" y="48" font-size="10.5" letter-spacing="3" fill="#7e22ce">LEI DE UX DO DIA &#183; 13.08.2026</text>
       </g>
-      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111827">DIVULGAÇÃO PROGRESSIVA</text>
+      <text class="sobe s2" x="38" y="104" font-size="30" font-weight="700" letter-spacing="1.2" fill="#111015">DIVULGAÇÃO PROGRESSIVA</text>
       <rect class="sobe s3" x="40" y="118" width="80" height="4" rx="2" fill="url(#lRegua)"/>
-      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#4b5563">Mostre o essencial e guarde o avançado a um clique.</text><text x="40" y="167" font-size="12.5" fill="#4b5563">A tela fica simples para quem está começando sem tirar</text><text x="40" y="188" font-size="12.5" fill="#4b5563">poder de quem já sabe o que quer.</text></g>
-      <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#6b7280" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
+      <g class="sobe s3"><text x="40" y="146" font-size="12.5" fill="#57515f">Mostre o essencial e guarde o avançado a um clique.</text><text x="40" y="167" font-size="12.5" fill="#57515f">A tela fica simples para quem está começando sem tirar</text><text x="40" y="188" font-size="12.5" fill="#57515f">poder de quem já sabe o que quer.</text></g>
+      <text class="sobe s4" x="40" y="216" font-size="9" letter-spacing="1.4" fill="#716979" font-family="SFMono-Regular, Consolas, Menlo, monospace">ATUALIZADA AUTOMATICAMENTE TODA MADRUGADA &#183; UMA LEI DIFERENTE POR DIA</text>
 
       <g class="sobe s4">
         <rect x="600" y="32" width="360" height="166" rx="20" fill="#fffdff" stroke="#e9d5ff" stroke-width="1.6"/>
@@ -67,6 +73,6 @@
       </g>
     </g>
 
-    <rect x="1" y="1" width="998" height="246" rx="28" fill="none" stroke="#9333ea" stroke-opacity=".2" stroke-width="2"/>
+
   </g>
-</svg>
+</g></g></svg>
