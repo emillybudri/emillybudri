@@ -21,12 +21,12 @@ Interfaces com propósito. Experiências que conectam.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/manifesto-dark.svg" />
-  <img src="./assets/manifesto.svg" alt="Na Budri não criamos apenas design, criamos experiências. O mesmo arquivo vira wireframe e vira código" width="100%" />
+  <img src="./assets/manifesto.svg" alt="Construímos juntos experiências que conectam design, código e resultados" width="100%" />
 </picture>
 
-Eu desenho a interface e escrevo o código que a sustenta. É esse o meu trabalho.
+Uno design e desenvolvimento para construir, junto com cada equipe, experiências que fazem sentido para as pessoas e trazem resultados.
 
-Atuo exatamente onde o **UX design** encontra o **desenvolvimento front-end**: a pesquisa vira fluxo, o fluxo vira componente e o componente vira uma interface que a pessoa usa sem esforço. Trabalho com e-commerces que precisam converter, produtos que precisam escalar e marcas que precisam ser lembradas.
+Atuo onde o **UX design** encontra o **desenvolvimento front-end**: a pesquisa vira fluxo, o fluxo vira componente e o componente vira uma interface que a pessoa usa sem esforço. Trabalho com e-commerces que precisam converter, produtos que precisam escalar e marcas que precisam ser lembradas.
 
 > Design não é apenas sobre como as coisas parecem.<br/>
 > É sobre **como a pessoa se sente** usando o que construímos. 💜
@@ -40,7 +40,7 @@ Atuo exatamente onde o **UX design** encontra o **desenvolvimento front-end**: a
   <img src="./assets/servicos.svg" alt="Serviços: 01 UX/UI Design, 02 Front-End, 03 Email Marketing, 04 Design Gráfico" width="100%" />
 </picture>
 
-Do briefing ao deploy, o projeto passa por uma pessoa só. Levanto os requisitos, arquiteto os fluxos, desenho a interface com todos os estados previstos (vazio, carregando, erro e sucesso) e escrevo o código que sustenta a entrega.
+Do briefing ao deploy, construímos juntos: alinhamos objetivos, exploramos soluções e transformamos ideias em interfaces úteis. Contribuo com pesquisa, fluxos, design e código, sempre com espaço para troca, feedback e evolução.
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 

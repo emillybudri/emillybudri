@@ -61,6 +61,9 @@ TOKENS = {
     "#ea580c": "#fb923c",
     "#ca8a04": "#facc15",
 
+    "#bfdbfe": "#254a70",
+    "#a5b4fc": "#586bc4",
+
     # escala de calor do calendário de contribuições
     "#f0e6fd": "#241645",
     "#ddc7fb": "#3d2168",
@@ -79,7 +82,12 @@ def escurecer(svg):
 
 def gravar(nome, svg_claro, raiz=None):
     svg_claro = aplicar(nome, svg_claro)
-    svg_claro = _CORES_MARCA.sub(lambda m: PALETA[m.group(0).lower()], svg_claro)
+    # Diagramas e dados mantêm suas cores funcionais; demais peças usam acentos sutis.
+    colorido = nome in {"manifesto", "leidodia", "telemetria"}
+    neutros = {"#111827", "#4b5563", "#6b7280"}
+    svg_claro = _CORES_MARCA.sub(
+        lambda m: m.group(0) if colorido and m.group(0).lower() not in neutros
+        else PALETA[m.group(0).lower()], svg_claro)
     # Pequenas áreas recuperam as cores antigas; superfícies e títulos seguem roxos.
     acentos = {
         "servicos": [(r'<g class="ico i2">.*?</g>', "#4676b8"),

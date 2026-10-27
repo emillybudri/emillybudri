@@ -17,7 +17,7 @@
 <g clip-path="url(#end-frame)">
   <rect width="1000" height="330" fill="url(#end-black)"/>
   <g class="end-wave">
-    <path d="M-70 172 C50 108 84 218 210 218 S341 294 420 320 H-70Z" fill="url(#end-purple)"/>
+    <path d="M-70 172 C50 108 84 218 210 218 S341 320 440 360 V410 H-70Z" fill="url(#end-purple)"/>
     <path d="M-70 190 C50 126 84 236 210 236 S341 312 420 338" fill="none" stroke="#b68ae9" stroke-opacity=".65"/>
     <path d="M870 -60 C787 4 919 26 887 99 S939 226 1040 249 V-60Z" fill="url(#end-purple)"/>
     <path d="M895 -60 C812 4 944 26 912 99 S964 226 1065 249 V-60Z" fill="url(#end-edge)" stroke="#a677e9" stroke-opacity=".18"/>

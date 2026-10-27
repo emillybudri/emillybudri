@@ -29,7 +29,7 @@ TOKEN_PESSOAL = bool(os.environ.get("BUDRI_TOKEN"))
 BR_TZ = timezone(timedelta(hours=-3))
 
 CORES = ["#7e22ce", "#2563eb", "#db2777", "#16a34a", "#ea580c", "#ca8a04"]
-CALOR = ["#f0e6fd", "#ddc7fb", "#c08bf5", "#9b4dee", "#7e22ce"]
+CALOR = ["#f0e6fd", "#bfdbfe", "#a5b4fc", "#c084fc", "#db2777"]
 MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
 
 

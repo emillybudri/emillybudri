@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 356" width="1000" height="356" role="img" aria-label="Manifesto: na Budri não criamos apenas design, criamos experiências. O mesmo arquivo vira wireframe e vira código."><defs><clipPath id="budri-componente"><rect width="1000" height="356"/></clipPath><style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 356" width="1000" height="356" role="img" aria-label="Manifesto: construímos juntos experiências que conectam design, código e resultados."><defs><clipPath id="budri-componente"><rect width="1000" height="356"/></clipPath><style>
       .marca-move{animation:marca-move 15s ease-in-out infinite}
       .marca-pulse{animation:marca-pulse 4s ease-in-out infinite}
       @keyframes marca-move{0%,100%{transform:translate(0,0)}50%{transform:translate(9px,-8px)}}
@@ -10,14 +10,14 @@
       <stop offset="0%" stop-color="#131017"/><stop offset="55%" stop-color="#0c0911"/><stop offset="100%" stop-color="#171020"/>
     </linearGradient>
     <radialGradient id="mB1" cx="50%" cy="50%"><stop offset="0%" stop-color="#b06cf0" stop-opacity=".22"/><stop offset="100%" stop-color="#b06cf0" stop-opacity="0"/></radialGradient>
-    <radialGradient id="mB2" cx="50%" cy="50%"><stop offset="0%" stop-color="#a78bfa" stop-opacity=".16"/><stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <radialGradient id="mB2" cx="50%" cy="50%"><stop offset="0%" stop-color="#5b8def" stop-opacity=".16"/><stop offset="100%" stop-color="#5b8def" stop-opacity="0"/></radialGradient>
     <linearGradient id="mTitulo" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#a855f7"/>
-      <stop offset="55%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+      <stop offset="55%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
     <linearGradient id="mRegua" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a855f7"/><stop offset="100%" stop-color="#c084fc"/>
+      <stop offset="0%" stop-color="#a855f7"/><stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
     <filter id="mSombra" x="-20%" y="-20%" width="150%" height="160%">
       <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#c084fc" flood-opacity="0.16"/>
@@ -80,17 +80,17 @@
 
     <g font-family="Segoe UI, Arial, sans-serif">
       <g class="sobe">
-        <rect x="56" y="50" width="9" height="9" rx="2" fill="#a855f7"/>
+        <rect x="56" y="50" width="9" height="9" rx="2" fill="#f472b6"/>
         <text x="78" y="59" font-size="11.5" letter-spacing="4" fill="#a855f7">MANIFESTO</text>
       </g>
-      <text class="sobe2" x="56" y="100" font-size="18" fill="#c4bdcf">Na Budri, não criamos apenas design.</text>
+      <text class="sobe2" x="56" y="100" font-size="18" fill="#c4bdcf">Boas experiências nascem da troca.</text>
       <text class="sobe3" x="54" y="152" font-size="42" font-weight="700" letter-spacing="1.6" fill="#faf8ff">CRIAMOS</text>
       <text class="sobe3" x="54" y="200" font-size="42" font-weight="700" letter-spacing="1.6" fill="url(#mTitulo)">EXPERIÊNCIAS</text>
       <rect class="sobe4" x="56" y="220" width="96" height="5" rx="2.5" fill="url(#mRegua)"/>
       <g class="sobe4" font-size="13.5" fill="#c4bdcf">
-        <text x="56" y="256">Design que resolve, código que sustenta.</text>
-        <text x="56" y="278">A mesma pessoa que desenha a interface</text>
-        <text x="56" y="300">escreve o código que a sustenta.</text>
+        <text x="56" y="256">Escutamos, experimentamos e evoluímos.</text>
+        <text x="56" y="278">Juntos, conectamos design e código</text>
+        <text x="56" y="300">para gerar valor e resultados.</text>
       </g>
     </g>
 
@@ -99,7 +99,7 @@
       <g>
         <rect x="510" y="46" width="434" height="252" rx="20" fill="#131017" stroke="#39264d" stroke-width="1.5"/>
       </g>
-      <circle cx="534" cy="70" r="4.5" fill="#a855f7"/><circle cx="550" cy="70" r="4.5" fill="#a855f7"/><circle cx="566" cy="70" r="4.5" fill="#c084fc"/>
+      <circle cx="534" cy="70" r="4.5" fill="#f472b6"/><circle cx="550" cy="70" r="4.5" fill="#a855f7"/><circle cx="566" cy="70" r="4.5" fill="#60a5fa"/>
       <rect class="pilula" x="600" y="59" width="106" height="22" rx="11" fill="#a855f7" fill-opacity=".12" stroke="#a855f7" stroke-opacity=".35"/>
       <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" text-anchor="middle">
         <text class="abaA" x="653" y="74" fill="#e9d5ff">design.fig</text>
@@ -116,12 +116,12 @@
             <rect class="risca" x="546" y="106" width="152" height="13" rx="6.5" stroke="#c084fc"/>
             <rect class="risca" x="546" y="130" width="204" height="8" rx="4" stroke="#c084fc" stroke-opacity=".4"/>
             <rect class="risca" x="546" y="146" width="168" height="8" rx="4" stroke="#c084fc" stroke-opacity=".4"/>
-            <rect class="risca" x="546" y="170" width="88" height="28" rx="14" stroke="#a855f7"/>
-            <rect class="risca" x="774" y="106" width="140" height="112" rx="14" stroke="#c084fc"/>
-            <path class="risca" d="M788 196 l30 -34 22 24 20 -18 26 28" stroke="#c084fc" stroke-opacity=".55"/>
+            <rect class="risca" x="546" y="170" width="88" height="28" rx="14" stroke="#f472b6"/>
+            <rect class="risca" x="774" y="106" width="140" height="112" rx="14" stroke="#60a5fa"/>
+            <path class="risca" d="M788 196 l30 -34 22 24 20 -18 26 28" stroke="#60a5fa" stroke-opacity=".55"/>
             <rect class="risca" x="546" y="222" width="368" height="34" rx="12" stroke="#c084fc" stroke-opacity=".26"/>
           </g>
-          <circle cx="836" cy="140" r="10" fill="#a78bfa" fill-opacity=".45"/>
+          <circle cx="836" cy="140" r="10" fill="#5b8def" fill-opacity=".45"/>
           <g class="mao"><path d="M584 138 l0 21 5 -6 5 11 5 -2 -5 -11 7 0 z" fill="#faf8ff"/></g>
         </g>
 
@@ -131,11 +131,11 @@
             <text x="534" y="114">1</text><text x="534" y="136">2</text><text x="534" y="158">3</text>
             <text x="534" y="180">4</text><text x="534" y="202">5</text><text x="534" y="224">6</text>
           </g>
-          <g class="linha l1"><text x="552" y="114"><tspan fill="#a855f7">export default</tspan> <tspan fill="#c084fc">function</tspan> <tspan fill="#e9d5ff">Budri</tspan><tspan fill="#c4bdcf">() {</tspan></text></g>
-          <g class="linha l2"><text x="566" y="136"><tspan fill="#c084fc">const</tspan> <tspan fill="#faf8ff">experiencia</tspan> <tspan fill="#c4bdcf">=</tspan> <tspan fill="#c084fc">useEmpatia</tspan><tspan fill="#c4bdcf">()</tspan></text></g>
+          <g class="linha l1"><text x="552" y="114"><tspan fill="#f472b6">export default</tspan> <tspan fill="#60a5fa">function</tspan> <tspan fill="#fb923c">Budri</tspan><tspan fill="#c4bdcf">() {</tspan></text></g>
+          <g class="linha l2"><text x="566" y="136"><tspan fill="#c084fc">const</tspan> <tspan fill="#faf8ff">experiencia</tspan> <tspan fill="#c4bdcf">=</tspan> <tspan fill="#60a5fa">useEmpatia</tspan><tspan fill="#c4bdcf">()</tspan></text></g>
           <g class="linha l3"><text x="566" y="158" fill="#aaa0b7">// clareza &gt; complexidade</text></g>
-          <g class="linha l4"><text x="566" y="180"><tspan fill="#a855f7">return</tspan> <tspan fill="#c4bdcf">(</tspan></text></g>
-          <g class="linha l5"><text x="580" y="202"><tspan fill="#c084fc">&lt;Digital</tspan> <tspan fill="#c084fc">simples</tspan> <tspan fill="#c084fc">humano</tspan> <tspan fill="#c084fc">inesquecível</tspan> <tspan fill="#c084fc">/&gt;</tspan></text></g>
+          <g class="linha l4"><text x="566" y="180"><tspan fill="#f472b6">return</tspan> <tspan fill="#c4bdcf">(</tspan></text></g>
+          <g class="linha l5"><text x="580" y="202"><tspan fill="#60a5fa">&lt;Digital</tspan> <tspan fill="#c084fc">simples</tspan> <tspan fill="#c084fc">humano</tspan> <tspan fill="#c084fc">inesquecível</tspan> <tspan fill="#60a5fa">/&gt;</tspan></text></g>
           <g class="linha l6"><text x="566" y="224" fill="#c4bdcf">) }</text></g>
           <rect class="cur" x="580" y="238" width="7" height="14" fill="#a855f7"/>
         </g>
@@ -143,7 +143,7 @@
 
       <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" letter-spacing="1.6">
         <text x="532" y="284" fill="#aaa0b7">ESCUTA &#8594; DESENHA &#8594; CONSTRÓI &#8594; ENTREGA</text>
-        <text x="922" y="284" text-anchor="end" fill="#a855f7">100% AUTORAL</text>
+        <text x="922" y="284" text-anchor="end" fill="#a855f7">EM PARCERIA</text>
       </g>
     </g>
 

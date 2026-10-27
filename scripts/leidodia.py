@@ -684,9 +684,9 @@ RECIPROCIDADE = f"""
 
 IKEA = f"""
   {linhas(46, 44, 3, 116, passo=22, alt=12, cor=ROXO, op="1", destaque=(0, 1, 2))}
-  {dedo(174, 60, ROXO)}
-  {caixa(216, 44, 120, 70, ROXO, ".14", 14)}
-  <text x="276" y="86" font-size="11" text-anchor="middle" fill="{ROXO}">O SEU PERFIL</text>
+  {dedo(174, 60, ROSA)}
+  {caixa(216, 44, 120, 70, AZUL, ".14", 14)}
+  <text x="276" y="86" font-size="11" text-anchor="middle" fill="{AZUL}">O SEU PERFIL</text>
   {legenda("O QUE A PESSOA AJUDA A MONTAR ELA PASSA A DEFENDER", 146)}
 """
 
