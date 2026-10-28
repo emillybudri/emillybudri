@@ -19,15 +19,6 @@
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
 
-## Design & desenvolvimento
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/servicos-dark.svg" />
-  <img src="./assets/servicos.svg" alt="Serviços: 01 UX/UI Design, 02 Front-End, 03 Email Marketing, 04 Design Gráfico" width="100%" />
-</picture>
-
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divisor-dark.svg" /><img src="./assets/divisor.svg" alt="" width="100%" /></picture></div>
-
 ## Minha stack
 
 <picture>
