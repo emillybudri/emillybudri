@@ -61,9 +61,6 @@ TOKENS = {
     "#ea580c": "#fb923c",
     "#ca8a04": "#facc15",
 
-    "#bfdbfe": "#254a70",
-    "#a5b4fc": "#586bc4",
-
     # escala de calor do calendário de contribuições
     "#f0e6fd": "#241645",
     "#ddc7fb": "#3d2168",
